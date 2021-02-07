@@ -1,0 +1,121 @@
+body {
+    background-color: #eaf0f2;
+  }
+  
+  .dropdown1 {
+      font-size: 42px;
+      color: white;
+      font-family: Oswald;
+      padding-top: 15px;
+      padding-left: 35px;
+      padding-right: 35px;
+      line-height: 35px;
+  }
+
+  .navbar {
+    overflow: hidden;
+    background-color: #263238;
+    padding-bottom: none;
+    line-height: 35px;
+}
+  
+  .navbar a {
+    float: left;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 25px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: inherit;
+    font-family: Oswald;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #546E7A;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #263238;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: white;
+    text-decoration: none;
+    font-family: Oswald;
+    transition-duration: 0.6s;
+    height: 45px;
+    line-height: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #CFD8DC;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  h1 {
+    font-family: Oswald;
+    padding-left: 35px;
+  }
+
+  .Clifftop {
+    padding-left: 35px;
+  }
+
+  footer {
+    background-color: #263238;
+    text-align: center;
+    margin-top: 75px;
+    padding: 50px;
+  }
+
+  .copyright {
+    color: #B0BEC5;
+    font-family: Oswald;
+    font-size: 16px;
+  }
+
+  .footernavbar {
+    font-family: Oswald;
+  }
+
+  .footernavbar a {
+    color: white;
+    font-size: 18px;
+  }
+
+.news {
+  font-size: 28px;
+  color: #B0BEC5;
+  font-family: Oswald;
+}
