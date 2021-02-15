@@ -1,0 +1,126 @@
+html, body {
+	height: 100%;
+	font-family: Roboto;
+}
+
+#background1 {
+	background: url('assets/background1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#background {
+	background: url('assets/background.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#background2 {
+	background: url('assets/background2.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#background3 {
+	background: url('assets/background3.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+h6 {
+	color:gray;
+}
+
+p {
+	color: gray;
+}
+
+#message {
+	width: 900px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#message h1 {
+	font-size: 54px;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.navicon {
+	font-size: 24px;
+	color: #fd7e14;
+	padding-right: 10px;
+}
+
+#the-footer {
+	background: #263238;
+	color: white;
+	padding: 50px 0;
+	font-size: 13px;
+}
+
+#the-footer h6 {
+	color: #1E88E5;
+}
+
+#the-footer a {
+	color: #CFD8DC;
+}
+
+.footericon {
+	font-size: 96px;
+	color: #fd7e14;
+}
+
+/*About page*/
+
+.section {
+	padding: 112px 0;
+	overflow: hidden;
+}
+
+.middle {
+	background: #262F36;
+	color: white;
+}
+
+.middle h2 {
+	colord: #CFD8DC;
+}
+
+.section img {
+	height: 300px;
+	width: 505px;
+}
+
+.middle img {
+	height: 300px;
+	width: 505px;
+}
+
