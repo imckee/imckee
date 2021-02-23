@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  color: white;
+  text-align: center;
+}
+
+.centered {
+  position: absolute;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 54px;
+  padding-top: 80px;
+  text-transform: uppercase;
+  width: 900px;
+  left: 15%;
+}
