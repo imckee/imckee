@@ -93,10 +93,12 @@ p {
 	color: #CFD8DC;
 }
 
+
 .footericon {
-	font-size: 96px;
-	color: #fd7e14;
+	font-size: 40px;
+	color: #white;
 }
+
 
 /*About page*/
 
@@ -111,7 +113,7 @@ p {
 }
 
 .middle h2 {
-	colord: #CFD8DC;
+	color: #CFD8DC;
 }
 
 .section img {
