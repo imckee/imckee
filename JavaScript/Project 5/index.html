@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,6 @@
 </head>
 
 <body>
-  <script src="script.js"></script>
 <nav>
                 
   <ul>
@@ -84,11 +84,11 @@
         <img src="assets/6.jpg">
       </div>
 </div>
-    <br>
     
-    <div style="text-align:center">
-    <a href="#" class="previous" onclick="plusSlides(-1)">Previous</a>
-    <a href="#" class="next" onclick="plusSlides(1)">Next</a>
+ <div style="text-align:center">
+  <!-- you had <a></a> instead of buttons -->
+    <button href="#" class="previous" onclick="plusSlides(-1)">Previous</button>
+    <button href="#" class="next" onclick="plusSlides(1)">Next</button>
 </div>
 
 </main>
@@ -104,9 +104,10 @@
   </div>
   <p style="font-size: 16px">The Desserts &copy; 1983</p>
 </footer>
+<script src="script.js"></script>
 
 
-<script>
+<!-- <script>
     var slideIndex = 1;
     showSlides(slideIndex);
     
@@ -133,7 +134,7 @@
       slides[slideIndex-1].style.display = "block";  
       dots[slideIndex-1].className += " active";
     }
-    </script>
+    </script> -->
 
 
 </body>

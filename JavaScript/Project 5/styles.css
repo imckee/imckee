@@ -94,6 +94,11 @@ main {
   padding-left: 35px;/*aligns text and image so it matches logo in nav bar*/
 }
 
+/* adds padding between the button */
+button {
+  margin-right: 10px;
+}
+
 /*sets attributes for footer*/
 footer {
   background-color: #263238;
