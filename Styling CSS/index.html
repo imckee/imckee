@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
     <head>
         <meta charset="utf-8">
@@ -16,7 +11,6 @@
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-
         <style>
             #first_div {
                 width: 20vw;
@@ -28,11 +22,9 @@
                 margin: auto;
                 text-align: center;
             }
-
             .first_span {
                 margin: auto;
             }
-
             #second_div {
                 width: 20vw;
                 height: 100px;
@@ -43,38 +35,31 @@
                 margin: auto;
                 text-align: center;
             }
-
             .second_span {
                 margin: auto;
             }
-
             #button {
                 margin: auto;
                 text-align: center;
             }
-
             #button2 {
                 margin: auto;
                 text-align: center;
             }
         </style>
-        
         <div id="first_div">
             <span class="first_span">Web development is fun.</span>
         </div>
-
         <div id="second_div">
             <span class="second_span">Web development is cool.</span>
         </div><br>
-
         <div id="button"><button onclick="startStop()">Stop</button></div>
-
         <script>
             document.querySelector('span').style.color = "red";
             var firstDiv = document.getElementById('first_div');
             var secondDiv = document.getElementById('second_div');
             var isBeige = true;
-   
+            /*
             var intervalId = setInterval(function (){
                 if(!isBeige){
                     firstDiv.style.background = 'beige';
@@ -85,11 +70,68 @@
                 }
                 isBeige = !isBeige;
             }, 1000)
-
+            var toggle = true;
+            */
+          var toggling = true;
+	  function switchColors() {
+	      if(!isBeige){
+		  firstDiv.style.background = 'beige';
+		  secondDiv.style.background = 'skyblue';
+	      } else {
+		  firstDiv.style.background = 'skyblue';
+		  secondDiv.style.background = 'beige';
+	      }
+	      isBeige = !isBeige;
+	  }// end switchColors;
+          function startStop(){
+            console.log("Running startStop");
+            if (toggling)
+              clearInterval(intervalId);
+            else
+              intervalId = setInterval(switchColors, 1000);
+              toggling = !toggling
+          }// end startStop
+          var intervalId = setInterval(switchColors, 1000);
+         /*
             function startStop(){
-                clearInterval(intervalId);
-            }
-
+                if (toggle) 
+                  clearInterval(intervalId);
+                else
+                { 
+                  intervalId = setInterval(function (){
+                  if(!isBeige){
+                    firstDiv.style.background = 'beige';
+                    secondDiv.style.background = 'skyblue';
+                  } else {
+                    firstDiv.style.background = 'skyblue';
+                    secondDiv.style.background = 'beige';
+                  }
+                  isBeige = !isBeige;
+            }, 1000);
+            }// end else
+            }// end startStop
+         */
+            // function swapColor() {
+            // if (!toggle)
+            // {
+            //     var tmp = firstDiv.style.background;
+            //     firstDiv.style.background = secondDiv.style.background;
+            //     secondDiv.style.background = tmp;
+            // }
+            // }//end swapColor
+            // function lightSwitch() {
+            // toggle = !toggle
+            // }// end lightSwitch
+            // var myspan = document.querySelector("span");
+            // var firstDiv = document.getElementById("first_div");
+            // var secondDiv = document.getElementById("second_div");
+            // var toggle = false;
+            // var btnSwitch = document.getElementById("myButton");
+            // btnSwitch.onclick = lightSwitch;
+            // myspan.style.color = "red";
+            // firstDiv.style.background = "skyblue";
+            // secondDiv.style.background = "beige";
+            // setInterval(swapColor, 1000);
         </script>
     </body>
 </html>
