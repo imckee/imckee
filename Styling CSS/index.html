@@ -59,79 +59,40 @@
             var firstDiv = document.getElementById('first_div');
             var secondDiv = document.getElementById('second_div');
             var isBeige = true;
-            /*
-            var intervalId = setInterval(function (){
-                if(!isBeige){
-                    firstDiv.style.background = 'beige';
-                    secondDiv.style.background = 'skyblue';
-                } else {
-                    firstDiv.style.background = 'skyblue';
-                    secondDiv.style.background = 'beige';
-                }
-                isBeige = !isBeige;
-            }, 1000)
-            var toggle = true;
-            */
-          var toggling = true;
-	  function switchColors() {
-	      if(!isBeige){
-		  firstDiv.style.background = 'beige';
-		  secondDiv.style.background = 'skyblue';
-	      } else {
-		  firstDiv.style.background = 'skyblue';
-		  secondDiv.style.background = 'beige';
-	      }
-	      isBeige = !isBeige;
-	  }// end switchColors;
-          function startStop(){
-            console.log("Running startStop");
-            if (toggling)
-              clearInterval(intervalId);
-            else
-              intervalId = setInterval(switchColors, 1000);
-              toggling = !toggling
-          }// end startStop
-          var intervalId = setInterval(switchColors, 1000);
-         /*
-            function startStop(){
-                if (toggle) 
-                  clearInterval(intervalId);
-                else
-                { 
-                  intervalId = setInterval(function (){
-                  if(!isBeige){
-                    firstDiv.style.background = 'beige';
-                    secondDiv.style.background = 'skyblue';
-                  } else {
-                    firstDiv.style.background = 'skyblue';
-                    secondDiv.style.background = 'beige';
-                  }
-                  isBeige = !isBeige;
-            }, 1000);
-            }// end else
-            }// end startStop
-         */
-            // function swapColor() {
-            // if (!toggle)
-            // {
-            //     var tmp = firstDiv.style.background;
-            //     firstDiv.style.background = secondDiv.style.background;
-            //     secondDiv.style.background = tmp;
-            // }
-            // }//end swapColor
-            // function lightSwitch() {
-            // toggle = !toggle
-            // }// end lightSwitch
-            // var myspan = document.querySelector("span");
-            // var firstDiv = document.getElementById("first_div");
-            // var secondDiv = document.getElementById("second_div");
-            // var toggle = false;
-            // var btnSwitch = document.getElementById("myButton");
-            // btnSwitch.onclick = lightSwitch;
-            // myspan.style.color = "red";
-            // firstDiv.style.background = "skyblue";
-            // secondDiv.style.background = "beige";
-            // setInterval(swapColor, 1000);
+            var toggling = true;
+            function switchColors() {
+              if(!isBeige)
+              {
+                firstDiv.style.background = 'beige';
+                secondDiv.style.background = 'skyblue';
+              }
+              else
+              {
+                 firstDiv.style.background = 'skyblue';
+                 secondDiv.style.background = 'beige';
+              }
+              isBeige = !isBeige;
+            }// switchColors
+            function startStop() {
+              console.log("Running startStop");
+              console.log("Value of toggling: " + toggling);
+              if (toggling)
+              {
+                console.log("Value of toggling before clearing interval: " + toggling);
+                clearInterval(intervalId);
+                console.log("Value of toggling after clearing interval: " + toggling);
+              }
+              else
+              {
+                console.log("Value of toggling before setting interval: " + toggling);
+                intervalId = setInterval(switchColors, 1000);
+                console.log("Value of toggling after setting interval: " + toggling);
+              }
+              console.log("Value of toggling before inverting boolean value: " + toggling);
+              toggling = !toggling;
+              console.log("Value of toggling after inverting boolean value: " + toggling);
+            }// startStop
+            var intervalId = setInterval(switchColors, 1000);
         </script>
     </body>
 </html>
