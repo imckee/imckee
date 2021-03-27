@@ -15,3 +15,22 @@ Hints:
             myArray = []    // will replace the original myArray with an empty array
 
 ### Answer:
+
+-Method 2: By using the length property, I used the following code:
+
+`myArray.length = 0;`  By making the length property = 0, this emptied the array.
+
+-Method 3: `myArray.splice("");` Using the spice method, I chose not to select any of the numbers, instead just using "" in parentheses.  After entering this code, it emptied the array.
+
+-Method 4: by popping each member of the array in a loop, I used the following code:
+
+`myArray.pop(5);
+myArray.pop(4);
+myArray.pop(3);
+myArray.pop(2);
+myArray.pop(1);`
+
+The pop() method removes the last element of an array, and then returns that element.  After entering the pop method 5 times, it emptied the array.
+
+
+

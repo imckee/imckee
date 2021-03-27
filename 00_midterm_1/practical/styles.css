@@ -7,26 +7,15 @@ body {
     background-size: cover;
 }
 
-/* First div was set as Pluribus, and was centered screen like in the example provided. */
+/* The code was set in a flex container so when the user adjusts the screen, the divs are on top of one another like it would be on a mobile phone. */
 
-#Pluribus {
-	background-color: blue;
-	width: 30%;
-    color: white;
-	padding-right: 1.5%;
-	padding-left: 1.5%;
-	height: 250px;
-	border-radius: 25px;
-	padding: 20px;
-    opacity: 0.6;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 40px;
-    border: 3px solid black;
-    outline-width: thin;
-    line-height: 200px;
-    margin: auto;
-}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 300px;
+  }
+
+/* First div was give the class name "E" and positioned at absolute and given -40% for the top and to float:left */
 
 #E {
 	margin-top:25%;
@@ -36,7 +25,7 @@ body {
 	height: 250px;
 	border-radius: 25px;
 	padding: 20px;
-    opacity: 0.6;
+    opacity: 0.4;
     position: fixed;
     text-align: center;
     text-transform: uppercase;
@@ -44,24 +33,53 @@ body {
     border: 3px solid black;
     outline-width: thin;
     line-height: 200px;
+    position: absolute;
+    top: -40%;
+    float: left;
 }
+
+/* Second div was set as Pluribus, and was centered screen like in the example provided. */
+
+#Pluribus {
+    margin-top:25%;
+	background-color: blue;
+	width: 30%;
+    color: white;
+	height: 250px;
+	border-radius: 25px;
+	padding: 20px;
+    opacity: 0.4;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    border: 3px solid black;
+    outline-width: thin;
+    line-height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -25px 0 0 -25px;
+}
+
+/* The third and last div was given the name Unum and given a margin-left of 800px and top 40%*/
 
 #Unum {
 	margin-top:25%;
 	background-color: blue;
 	width: 30%;
     color: white;
-	/* padding-right: 1.5%;
-	padding-left: 1.5%; */
 	height: 250px;
 	border-radius: 25px;
 	padding: 20px;
-    opacity: 0.6;
-    position: fixed;
+    opacity: 0.4;
     text-align: center;
     text-transform: uppercase;
     font-size: 40px;
     border: 3px solid black;
     outline-width: thin;
     line-height: 200px;
+    position: absolute;
+    top: 40%;
+    margin-left: 800px;
 }
