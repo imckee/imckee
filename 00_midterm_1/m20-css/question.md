@@ -10,3 +10,9 @@
 5.  None of the above
 
 ### Please write your answer here:
+
+1.  In HTML a CSS font-family is used to specify a prioritized list of fonts.
+
+2.  A font-family is a grouping of fonts defined by shared design styles.
+
+4.  A best practice for CSS font-family values is to delimit each in quotes if values contain whitespace, as follows:

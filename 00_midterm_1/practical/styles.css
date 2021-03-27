@@ -10,7 +10,6 @@ body {
 /* First div was set as Pluribus, and was centered screen like in the example provided. */
 
 #Pluribus {
-    padding-top: 50%;
 	background-color: blue;
 	width: 30%;
     color: white;
@@ -34,8 +33,6 @@ body {
 	background-color: blue;
 	width: 30%;
     color: white;
-	/* padding-right: 1.5%;
-	padding-left: 1.5%; */
 	height: 250px;
 	border-radius: 25px;
 	padding: 20px;
