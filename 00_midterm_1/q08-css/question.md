@@ -23,4 +23,7 @@ Hint: You need to view these images. To view them use one of the following techn
 
 ### Answer A:
 
+I would expect the Sweet Halwa to be shown as red because in the CSS file, it lists `ul.shopping-list li .highlight` to be the color red.  The words "Sweet Halwa" are included in the span class "highlight" and not "highlight:nth-of-type".
 ### Answer B:
+
+I would expect the item "Sausage" to be shown as blue because the word "Sausage" is included in an `li class` of "must-buy".  In the CSS file, it targets the "must-buy" class to display the color blue.

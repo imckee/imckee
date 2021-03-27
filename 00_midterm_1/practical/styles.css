@@ -1,0 +1,70 @@
+/* This sets the image as the entire background of the web-page.  The background-repeat is set to no-repeat so the image does not repeat itself more than once.  The background-size is set to cover so the image covers the entire background.   */
+
+body {
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* First div was set as Pluribus, and was centered screen like in the example provided. */
+
+#Pluribus {
+    padding-top: 50%;
+	background-color: blue;
+	width: 30%;
+    color: white;
+	padding-right: 1.5%;
+	padding-left: 1.5%;
+	height: 250px;
+	border-radius: 25px;
+	padding: 20px;
+    opacity: 0.6;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    border: 3px solid black;
+    outline-width: thin;
+    line-height: 200px;
+    margin: auto;
+}
+
+#E {
+	margin-top:25%;
+	background-color: blue;
+	width: 30%;
+    color: white;
+	/* padding-right: 1.5%;
+	padding-left: 1.5%; */
+	height: 250px;
+	border-radius: 25px;
+	padding: 20px;
+    opacity: 0.6;
+    position: fixed;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    border: 3px solid black;
+    outline-width: thin;
+    line-height: 200px;
+}
+
+#Unum {
+	margin-top:25%;
+	background-color: blue;
+	width: 30%;
+    color: white;
+	/* padding-right: 1.5%;
+	padding-left: 1.5%; */
+	height: 250px;
+	border-radius: 25px;
+	padding: 20px;
+    opacity: 0.6;
+    position: fixed;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    border: 3px solid black;
+    outline-width: thin;
+    line-height: 200px;
+}
