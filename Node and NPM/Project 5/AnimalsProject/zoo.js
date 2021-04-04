@@ -1,8 +1,18 @@
 var animals = require('animals');
  
+var Log = require('log.pets');
 console.log(animals());
-//=> fox
+
+// //=> fox
  
 var Log = require('log.pets');
 Log.lion();
-Log.zoo('animals()','animals()','animals()');
+// console.log(animals())
+// Log.zoo('animals()','animals()','animals()');
+
+var Log = require('log.pets');
+
+Log.zoo(animals(), animals(), animals());
+
+console.log(animals().length);
+
