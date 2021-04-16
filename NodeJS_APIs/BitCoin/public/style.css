@@ -13,7 +13,15 @@
   h1 {
     text-align: center;
     color: black;
-    font-family: Oswald;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+
+  h2 {
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
   }
 
   .buttons {
@@ -26,8 +34,8 @@
     align-items: center;
   }
   
-  #btn {
-    margin: 20px;
+  .btn {
+    margin: 10px;
     background-color: navy;
     color: white;
     padding: 15px 32px;

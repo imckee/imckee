@@ -1,37 +1,32 @@
+var needle = require('needle');
+// const fetch = require('node-fetch');
 var express = require('express');
 var app = express();
 
-const fetch = require('node-fetch');
-
-const url = 'https://api.coindesk.com/v1/bpi/currentprice.json';
-
-// const url = 'https://www.coindesk.com/coindesk-api';
-
 app.use(express.static('public'));
-app.set('view engine', 'ejs');
 
-app.get('/', (req, res)=> {
-    res.render('index', {url});
-})
+app.get("/", function(req, res){
+    res.render("index.ejs");
+});
 
-app.get("/price", function(req, res){
-    let choice = req.query.inlineRadioOptions.toUpperCase();
-    console.log(choice);
-    request(endpoint, (error, response, body) => {
-      let rate = JSON.parse(body).bpi[choice].rate;
-      let symbol = JSON.parse(body).bpi[choice].symbol;
-      let result = `${symbol} ${rate}`;
-      console.log(result);
-      console.log("Result type:  " + result);
-      res.render("index.ejs", {result} );
-    });
-  });
+app.get("/quote", function(req, res){
+    needle.get("https://api.coindesk.com/v1/bpi/currentprice.json", function(error, response, body) {
+        if(!error && response.statusCode == 200){
+            var obj = JSON.parse(body);
+            var randomNum = Math.floor(Math.random() * obj.length)
 
-// app.get('/price', function (req, res) {
-//     fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
-//     .then(res => res.json())
-//     .then(json => console.log(url));
-// })
+        
+            let rate = JSON.parse(body).bpi.GBP.rate; 
+            let code = JSON.parse(body).bpi.code;
+            let result = `${code} ${rate}`
 
-const port = process.env.PORT || 3000;
-app.listen(port, ()=> console.log(`App listening on port ${port}`))
+            console.log(result);
+            console.log("Result type: " + result);
+            res.render("quote.ejs", {result});
+        }
+    })
+});
+
+app.listen(3000, function(){
+    console.log('App is listening on Port 3000');
+});
