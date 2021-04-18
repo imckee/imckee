@@ -3,11 +3,10 @@ const express = require("express");
 const app = express();
 
 // requires yelp-fusion
-const yelp = require("yelp-fusion");
-// const yelpClientId = "QSuhH6NbpAijE1bdJqHsew";
-const apiKey =
-  "TGmj7XiFfyILe004o67z3COKqqat0-RPorHfIepxlF1mCRCUBSy7gIwcUJaATMMO0c0MIeINi8qbQ44tWt-yYsYk2aWto0n0GrDyjQ0A7Jft5ZV6xRTJDGPNckAgW3Yx";
-const client = yelp.client(apiKey);
+const keys = require('./config/keys')
+const yelp = require('yelp-fusion');
+const yelp_api_key = keys.yelp_key;
+const client = yelp.client(yelp_api_key);
 
 // directs searches to public folder to use stars
 app.use(express.static("public"));
