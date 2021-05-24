@@ -1,0 +1,325 @@
+@charset "UTF-8";
+/* CSS Document */
+
+        <script type="text/javascript">
+
+            function showProfilePrompt() {
+
+                var message = "Please complete your electronic signature, PIN and security questions in order to complete your Profile.";
+
+                
+
+                bootbox.confirm({
+
+                    message: message,
+
+                    buttons: {
+
+                        confirm: {
+
+                            label: 'Review My Profile'
+
+                        },
+
+                        cancel: {
+
+                            label: 'Remind Me Later'
+
+                        }
+
+                    },
+
+                    callback: function (result) {
+
+                        if (result) {
+
+                            // on confirm
+
+                            window.location.replace("https://compass.teamssi.com/Candidate/CandidateProfile");
+
+                        }
+
+                        else {
+
+                            // on cancel
+
+                            window.location.replace("https://compass.teamssi.com/Account/DoLogout");
+
+                        }
+
+                    }
+
+                });
+
+            }
+
+        </script>
+
+
+
+        
+
+
+
+    <script type="text/javascript">
+
+
+
+        init.push(function () {
+
+
+
+            initMasks();
+
+
+
+            $("#registration-form").validate({ focusInvalid: true });
+
+
+
+
+
+            $.validator.addMethod("branch_selected", function (value, element) {
+
+                var lastValue = $('#BranchID option:last-child').val();
+
+                var selectedValue = $("#BranchID").val();
+
+                
+
+                return (selectedValue != 1);
+
+            }, "A selection is required.");
+
+
+
+            $.validator.addMethod("email_for_username", function (value, element) {
+
+                var username = $.trim($("#UserName").val());
+
+                var email = $.trim($("#Email").val());
+
+                var ischecked = $('#email_for_username').is(':checked');
+
+                return ((ischecked && (email.length > 0)) || (!ischecked && (username.length > 0)));
+
+            }, "This field is required.");
+
+
+
+
+
+            $.validator.addMethod("phone_format", function (value, element) {
+
+                var phone = $.trim($("#PhoneNumber").val());
+
+                var matches = phone.replace(/\D/g, '');
+
+                return (matches.length == 10) || (matches.length == 0);
+
+            }, "Please enter a valid telephone number.");
+
+
+
+            $.validator.addMethod("require_email_or_phone", function (value, element) {
+
+                var email = $.trim($("#Email").val());
+
+                var phone = $.trim($("#PhoneNumber").val());
+
+
+
+                return (email.length != 0) || ((phone.length != 0) && (phone != "(___) ___-____"));
+
+
+
+            }, 'Enter either an email address or a mobile phone.');
+
+
+
+            $("#FirstName").rules("add", {
+
+                required: true,
+
+                minlength: 1
+
+            });
+
+
+
+            $("#LastName").rules("add", {
+
+                required: true,
+
+                minlength: 1
+
+            });
+
+
+
+            $("#Email").rules("add", {
+
+                required: false,
+
+                email: true,
+
+                require_email_or_phone: true
+
+            });
+
+
+
+            $("#PhoneNumber").rules("add", {
+
+                required: false,
+
+                phone_format: true,
+
+                require_email_or_phone: true
+
+            });
+
+
+
+            $('#email_for_username').change(function () {
+
+                if ($(this).is(":checked")) {
+
+                    $("#UserName").attr("placeholder", "Use Email for Username");
+
+                    $("#UserName").attr("readonly", true);
+
+                    $('#UserName').val("");
+
+                    $("#Email").focus();
+
+                } else {
+
+                    $("#UserName").attr("placeholder", "Username");
+
+                    $("#UserName").attr("readonly", false);
+
+                    $("#UserName").focus();
+
+                }
+
+            });
+
+
+
+
+
+            $("#UserName").rules("add", {
+
+                required: false,
+
+                minlength: 6,
+
+                maxlength: 64,
+
+                email_for_username: true
+
+            });
+
+
+
+            $("#Password").rules("add", {
+
+                required: true,
+
+                minlength: 6,
+
+                maxlength: 20
+
+
+
+            });
+
+
+
+            $("#ConfirmPassword").rules("add", {
+
+                required: true,
+
+                minlength: 6,
+
+                maxlength: 20,
+
+                equalTo: "#Password"
+
+            });
+
+                                    
+
+
+
+            //$("#BranchID").rules("add", {
+
+            //    required: true,
+
+            //    minlength: 1,
+
+            //    branch_selected: true
+
+            //});
+
+            
+
+
+
+        })
+
+
+
+        $(document).ready(function () {
+
+
+
+            initPasswordRules();
+
+
+
+            $("#FirstName").focus();
+
+        });
+
+
+
+
+
+        function submitForm() {
+
+
+
+            var form = $("#registration-form");
+
+
+
+            if (form.valid()) {
+
+                if ($('#email_for_username').is(":checked")) {
+
+                    $('#UserName').val($("#Email").val());
+
+                }
+
+                regfrm.submit();
+
+                return true;
+
+            }
+
+            return false;
+
+        }
+
+
+
+        window.PixelAdmin.start(init);
+
+
+
+    </script>
+
+
+
