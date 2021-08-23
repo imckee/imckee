@@ -1,7 +1,5 @@
 package com.profootballreference;
 
-import com.pluralsight.AuthorPages;
-
 public class Pages {
 
     public static HomePage homePage() {
