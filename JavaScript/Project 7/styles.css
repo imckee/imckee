@@ -1,0 +1,17 @@
+h1 {
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+}
+
+.container {
+    border: solid 1px black;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+}
+
+.submit {
+    background-color: blue;
+    color: white;
+}

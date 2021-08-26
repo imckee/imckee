@@ -1,0 +1,24 @@
+/* .MyClockDisplay {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+    font-weight: 300;
+    font-size: 100px;
+} */
+
+
+body {
+    background: #4FC3F7;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    font-size: 100px;
+    font-weight: 300;
+    letter-spacing: 7px;
+}
