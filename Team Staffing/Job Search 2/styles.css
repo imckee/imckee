@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+  background: #f2f2f2;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background: #eee;
+  font: 12px Lucida sans, Arial, Helvetica, sans-serif;
+	color: #333;
+	text-align: center;
+}
+
+nav {
+	color: white;
+	background-color: #7B0407;
+	padding: .3%;
+	height: 40px;
+	width: 1500px;
+}
+
+ul {
+	text-align: center;
+	font-family: arial black;
+	font-weight: 400;
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	padding-right: 10%;
+}
+
+li a {
+	text-decoration: none;
+	color: white;
+}
+
+a {
+	color: #2A679F;
+}
+/*========*/
+
+td {
+	color:#7b0407;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.input_tet {
+}
+.input_text {
+}
+
+@media (max-width: 479px){
+}
+
+@media (max-width: 767px){
+}
+
+@media (min-width: 480px) and (max-width: 767px){
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+}
+
+@media (min-width: 768px){
+}
+
+@media (min-width: 992px){
+}
