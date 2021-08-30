@@ -1,0 +1,9 @@
+<h1>Deck of Cards</h1>
+
+<form action="/deal" method="get">
+    <button type="subit">Deal me in!!</button>
+</form>
+
+<% cards.forEach(element => { %>
+    <img src="<%= element.image %>" alt="" srcset="">
+<% }) %>
