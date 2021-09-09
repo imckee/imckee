@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.profootballreference</groupId>
-    <artifactId>ProFootballTests</artifactId>
+    <groupId>com.pluralsight</groupId>
+    <artifactId>TestFramework</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -15,9 +15,24 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.profootballreference</groupId>
-            <artifactId>ProFootballFramework</artifactId>
+            <groupId>com.pluralsight</groupId>
+            <artifactId>TestFramework</artifactId>
             <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.0.0-beta-4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-api</artifactId>
+            <version>4.0.0-beta-4</version>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-chrome-driver</artifactId>
+            <version>4.0.0-beta-4</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -31,9 +46,15 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.13.2</version>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.4.0</version>
             <scope>test</scope>
         </dependency>
     </dependencies>

@@ -1,7 +1,6 @@
 package com.profootballreference;
 
-public class HomePage {
-
+public class ProFootballPage {
     static String url = "https://www.pro-football-reference.com/";
     static String title = "Pro Football Statistics and History | Pro-Football-Reference.com";
 
@@ -12,5 +11,4 @@ public class HomePage {
     public boolean isAt() {
         return Browser.title().equals(title);
     }
-
 }

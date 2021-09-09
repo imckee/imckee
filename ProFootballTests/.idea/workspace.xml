@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b80c1b0-222a-4b0f-9ed0-11713f6f884c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Advanced JavaScript/Project 1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced JavaScript/Project 2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Advanced JavaScript/Project 3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 1/assets/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 1/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/about-images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/about-images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/about-images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/background-images/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/background-images/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/background-images/background3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/logoblack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/assets/logowhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bootstrap/Project 2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 1/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/assets/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 3/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 4/assets/Message box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 4/assets/clifftop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS/Project 4/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 1/soups/BakedPotato.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 1/soups/ChickenNoodle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 1/soups/js/BroccoliCheddar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/FrozenDrinks/Caramel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/FrozenDrinks/Mocha.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/FrozenDrinks/WatermelonStrawberryLemonade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/IcedSpecialtyDrinks/CaffeMocha.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/IcedSpecialtyDrinks/CaramelLatte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/IcedSpecialtyDrinks/ChaiTeaLatte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/PowerSmoothies/GreenPassion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/PowerSmoothies/PeachAndBlueberry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command Line/Command Line Project 2/drinks/PowerSmoothies/Superfruit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeckOfCards/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeckOfCards/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeckOfCards/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeckOfCards/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/views/about.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/views/contact.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 1/views/home.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 2/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 2/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 2/views/messages.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/public/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/views/about.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/views/contact.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/views/home.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/views/partials/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EJS/Project 3/views/partials/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 1/img/jon-arbuckle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 2/img/steve1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/assets/breakfast1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/assets/breakfast2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/assets/breakfast3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/assets/breakfast4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 3/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 5/assets/LosAngeles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 5/assets/honolulu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 5/assets/sanfrancisco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/Project 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript Function exercise/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 1/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/assets/background1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/assets/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/assets/background3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 4/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/assets/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 5/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 6/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 7/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 7/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/Project 8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 3/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 3/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/client/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/client/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/config/dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/config/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/config/prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/fakeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mongo/Project 4/todosWithMongo/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 2/HeartsProject/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 2/HeartsProject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 2/HeartsProject/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 3/SuperProject/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 3/SuperProject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 3/SuperProject/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 4/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 4/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 5/AnimalsProject/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 5/AnimalsProject/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Node and NPM/Project 5/AnimalsProject/zoo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/client/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/client/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/server/fakeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/Project 3/TODOS/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/TODOS/server/fakeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/TODOS/server/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/TODOS/server/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS ToDo App/TODOS/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/public/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/views/partials/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 1 BitCoin/views/partials/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/config/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/config/prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/public/images/curtain-1275200_1280.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/views/partials/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/views/partials/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/views/partials/navbar.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 2 Movies/views/results.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 3/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/config/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/config/prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_0@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_0@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1_half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1_half@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_1_half@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2_half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2_half@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_2_half@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3_half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3_half@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_3_half@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4_half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4_half@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_4_half@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/regular/regular_5@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/public/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/views/error.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/views/home.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/views/partials/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/views/partials/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeJS_APIs/Project 4 Food Finder/views/searchResults.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/Pages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/SearchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/SuperBowlScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/profootballreference/UnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/Pages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/SearchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/SuperBowlScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/profootballreference/UnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/6-9-21 React Exercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/6-9-21 React Exercise/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Random Box/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Random Box/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/public/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/src/images/jon-arbuckle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 1/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/Videos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/images/steve1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 2/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/Components/Info.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/Components/MovieComp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/Components/MovieComp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/Components/Poster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 3/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/server/config/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/server/config/prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/server/models/FormModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 4/src/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/Components/Catering.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/Components/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/Components/Menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/assets/images/breakfast1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/assets/images/breakfast2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/assets/images/breakfast3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/assets/images/breakfast4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/assets/images/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/React Project 5/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/Recipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/Recipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/RecipeApp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/RecipeApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/RecipeList.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/RecipeList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/Recipe/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/Navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/Recipe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/Recipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/RecipeApp.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/RecipeApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/recipeapp/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/src/useCallBack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../React/todos/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Project 1.pgsql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Project 1/Project 1.pgsql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Project 2 TODO/MAY_2021_Todos-2021-05-16_14-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Project 2 TODO/MAY_2021_Todos_create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Relational DB Project/FINDNOW-2021-05-16_16-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQL/Relational DB Project/FINDNOW_create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Bank Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Employment Agency.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/FL Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Industrial Worker 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Industrial worker 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Receptionist logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Secretary 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Slide 1 Industrial worker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Slide 2 Secretary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Slide 3 employees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Slide 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Team Staffing Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/Testimonials.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/account manager.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/flexible company.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/general manager.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/human resource manager 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/human resource manager 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/manager 6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/recruiter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Images/sales icon revision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/Images/Team Staffing Logo copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/Job Search 1488.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/Job Search 768.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/jobsearch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/tssignup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/Job Search 2/tsslogin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/css/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/css/signup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/btn-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/item1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/item2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/item3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/member6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/pattern.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/service1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/service2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/service3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/service4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/slide-four.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/slide-one.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/slide-three.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/img/slide-two.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/gmaps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/doctor/js/smoothscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/gmaps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/jquery-2.1.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Team Staffing/js/smoothscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/client/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/client/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/client/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chat-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/models/post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/public/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/routes/posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/views/index.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/views/new.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/views/partials/footer.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/views/partials/form_inputs.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../message_board/views/partials/header.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/config/dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/config/keys.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/config/prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/models/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/views/home.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/views/login.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/views/newsfeed.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passportjs/views/signup.ejs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xn5XW1OthNmm3sbI5Cbq0y6YbW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/pluralsight" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pluralsight" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProFootballPageTest.canGoToProFootballPage (1)">
+    <configuration name="ProFootballLoginTest.canGoToProFootballLogin (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProFootballTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profootballreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profootballreference" />
+      <option name="MAIN_CLASS_NAME" value="com.profootballreference.ProFootballLoginTest" />
+      <option name="METHOD_NAME" value="canGoToProFootballLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProFootballLoginTest.canGoToProFootballLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profootballreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profootballreference" />
+      <option name="MAIN_CLASS_NAME" value="com.profootballreference.ProFootballLoginTest" />
+      <option name="METHOD_NAME" value="canGoToProFootballLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProFootballPageTest.canGoToProFootballPage (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProFootballTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profootballreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profootballreference" />
+      <option name="MAIN_CLASS_NAME" value="com.profootballreference.ProFootballPageTest" />
+      <option name="METHOD_NAME" value="canGoToProFootballPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProFootballPageTest.canGoToProFootballPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profootballreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.profootballreference" />
+      <option name="MAIN_CLASS_NAME" value="com.profootballreference.ProFootballPageTest" />
+      <option name="METHOD_NAME" value="canGoToProFootballPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProFootballLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.profootballreference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight" />
+      <option name="MAIN_CLASS_NAME" value="com.profootballreference.ProFootballLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProFootballPageTest.canGoToProFootballPage (1)" />
+        <item itemvalue="JUnit.ProFootballLoginTest.canGoToProFootballLogin (1)" />
+        <item itemvalue="JUnit.ProFootballPageTest.canGoToProFootballPage" />
+        <item itemvalue="JUnit.ProFootballLoginTest.canGoToProFootballLogin" />
+        <item itemvalue="TestNG.ProFootballLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b80c1b0-222a-4b0f-9ed0-11713f6f884c" name="Changes" comment="" />
+      <created>1630978061859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630978061859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/profootballreference/ProFootballScoreTest.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
