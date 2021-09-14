@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imckee
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Full Stack Web Development that covers HTML, CSS, Bootstrap, JQuery, JavaScript, Node.js, Express.js, MongoDB, React.js, SQL and Git.  
+- 🌱 I just completed a Full Stack Web Development that covers HTML, CSS, Bootstrap, JQuery, JavaScript, Node.js, Express.js, MongoDB, React.js, SQL and Git.  
 
 
 <!---
