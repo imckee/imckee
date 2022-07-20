@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @imckee
 - 👀 I’m interested in Software Development.
-- 🌱 I’m just recently completed a coding bootcamp that taught Full Stack Web Development which covered HTML, CSS, Bootstrap, JQuery, JavaScript, Node.js, Express.js, MongoDB, React.js, SQL and Git.  
+- 🌱 I just recently completed a coding bootcamp that taught Full Stack Web Development which covered HTML, CSS, Bootstrap, JQuery, JavaScript, Node.js, Express.js, MongoDB, React.js, SQL and Git.  
